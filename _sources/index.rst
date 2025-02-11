@@ -8,15 +8,13 @@
 
 
 =======================================
-CS102 - Practice Problems
+INFO102 - Practice Problems
 =======================================
 
-Practice programming problems for CS102 topics
+Practice problems for INFO102 topics
 :::::::::::::::::::::
- 
-Lorem ipsum
 
 .. toctree::
    :maxdepth: 1
 
-   Week2Practice.rst
+   Lab3PracticeComparison.rst
